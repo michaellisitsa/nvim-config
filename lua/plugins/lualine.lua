@@ -4,7 +4,6 @@ local colors = {
   red = "#ec5f67",
 }
 return {
-
   {
     "nvim-lualine/lualine.nvim",
     opts = function(_, opts)
